@@ -1,1 +1,0 @@
-Checking the delete concept.
